@@ -1,6 +1,6 @@
-# YouTube Video Downloader
+# IPLABS YouTube Video Downloader
 
-This application downloads videos and their associated metadata from a specified YouTube channel, excluding shorts.
+This application downloads videos and their associated metadata from YouTube channel: https://www.youtube.com/@vk-streaming3526, excluding shorts.
 
 ## Features
 
@@ -60,4 +60,4 @@ The application creates the following outputs:
 2. **downloads/videos/** - Contains downloaded videos and their metadata
 3. **reports/** - Contains summary reports and verification details
 
-For more details, see the summary report in the reports directory.
+For more details, please take a look at the summary report in the reports directory. #Wisdev
