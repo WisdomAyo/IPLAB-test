@@ -1,0 +1,362 @@
+[
+  {
+    "_type": "url",
+    "ie_key": "Youtube",
+    "id": "LxrGnven7iE",
+    "url": "https://www.youtube.com/watch?v=LxrGnven7iE",
+    "title": "Can't take my eyes off you",
+    "description": "A song from The Very Best of Frankie Valli and Four Seasons",
+    "duration": 200.0,
+    "channel_id": null,
+    "channel": null,
+    "channel_url": null,
+    "uploader": null,
+    "uploader_id": null,
+    "uploader_url": null,
+    "thumbnails": [
+      {
+        "url": "https://i.ytimg.com/vi/LxrGnven7iE/hqdefault.jpg?sqp=-oaymwE1CKgBEF5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-BIAC6AKKAgwIABABGDMgYihyMA8=&rs=AOn4CLDz4oPoUTTl4kQik6k7PWhUqBc0mw",
+        "height": 94,
+        "width": 168
+      },
+      {
+        "url": "https://i.ytimg.com/vi/LxrGnven7iE/hqdefault.jpg?sqp=-oaymwE1CMQBEG5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-BIAC6AKKAgwIABABGDMgYihyMA8=&rs=AOn4CLDrKC6Y8cBnhlKJkitq8lUhDzGjJw",
+        "height": 110,
+        "width": 196
+      },
+      {
+        "url": "https://i.ytimg.com/vi/LxrGnven7iE/hqdefault.jpg?sqp=-oaymwE2CPYBEIoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gSAAugCigIMCAAQARgzIGIocjAP&rs=AOn4CLBXx15mQH7qk2H-LvLMjWZ8GGK5sA",
+        "height": 138,
+        "width": 246
+      },
+      {
+        "url": "https://i.ytimg.com/vi/LxrGnven7iE/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gSAAugCigIMCAAQARgzIGIocjAP&rs=AOn4CLB1tKCnXx-7_78XFzY7jDu5AOQmPA",
+        "height": 188,
+        "width": 336
+      }
+    ],
+    "timestamp": null,
+    "release_timestamp": null,
+    "availability": null,
+    "view_count": 8,
+    "live_status": null,
+    "channel_is_verified": null,
+    "__x_forwarded_for_ip": null,
+    "webpage_url": "https://www.youtube.com/watch?v=LxrGnven7iE",
+    "original_url": "https://www.youtube.com/watch?v=LxrGnven7iE",
+    "webpage_url_basename": "watch",
+    "webpage_url_domain": "youtube.com",
+    "extractor": "youtube",
+    "extractor_key": "Youtube",
+    "playlist_count": 5,
+    "playlist": "VK-STREAMING - Videos",
+    "playlist_id": "UCOsQ3iGRosvnpP1hAdtplvQ",
+    "playlist_title": "VK-STREAMING - Videos",
+    "playlist_uploader": "VK-STREAMING",
+    "playlist_uploader_id": "@vk-streaming3526",
+    "playlist_channel": "VK-STREAMING",
+    "playlist_channel_id": "UCOsQ3iGRosvnpP1hAdtplvQ",
+    "playlist_webpage_url": "https://www.youtube.com/@vk-streaming3526/videos",
+    "n_entries": 5,
+    "playlist_index": 1,
+    "__last_playlist_index": 5,
+    "playlist_autonumber": 1,
+    "epoch": 1743777947,
+    "duration_string": "3:20",
+    "release_year": null,
+    "_version": {
+      "version": "2025.03.31",
+      "current_git_head": null,
+      "release_git_head": "5e457af57fae9645b1b8fa0ed689229c8fb9656b",
+      "repository": "yt-dlp/yt-dlp"
+    }
+  },
+  {
+    "_type": "url",
+    "ie_key": "Youtube",
+    "id": "NLlen4sjPFM",
+    "url": "https://www.youtube.com/watch?v=NLlen4sjPFM",
+    "title": "I've got you under my skin",
+    "description": "A song from The Very Best of Frankie Valli and Four Seasons",
+    "duration": 220.0,
+    "channel_id": null,
+    "channel": null,
+    "channel_url": null,
+    "uploader": null,
+    "uploader_id": null,
+    "uploader_url": null,
+    "thumbnails": [
+      {
+        "url": "https://i.ytimg.com/vi/NLlen4sjPFM/hqdefault.jpg?sqp=-oaymwE1CKgBEF5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-BIAC6AKKAgwIABABGDMgYihyMA8=&rs=AOn4CLCDZ0yz7S_yCv_Xp6GE8Oys7U8orw",
+        "height": 94,
+        "width": 168
+      },
+      {
+        "url": "https://i.ytimg.com/vi/NLlen4sjPFM/hqdefault.jpg?sqp=-oaymwE1CMQBEG5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-BIAC6AKKAgwIABABGDMgYihyMA8=&rs=AOn4CLA002JCWVei-x8PkVhjAdW_pCmkaA",
+        "height": 110,
+        "width": 196
+      },
+      {
+        "url": "https://i.ytimg.com/vi/NLlen4sjPFM/hqdefault.jpg?sqp=-oaymwE2CPYBEIoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gSAAugCigIMCAAQARgzIGIocjAP&rs=AOn4CLDOJ0_0MQFM6q8ZbQXkVTLRakBaQA",
+        "height": 138,
+        "width": 246
+      },
+      {
+        "url": "https://i.ytimg.com/vi/NLlen4sjPFM/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gSAAugCigIMCAAQARgzIGIocjAP&rs=AOn4CLCLdKEVkrH1IW1TUwgJ7jwkzkflGg",
+        "height": 188,
+        "width": 336
+      }
+    ],
+    "timestamp": null,
+    "release_timestamp": null,
+    "availability": null,
+    "view_count": 4,
+    "live_status": null,
+    "channel_is_verified": null,
+    "__x_forwarded_for_ip": null,
+    "webpage_url": "https://www.youtube.com/watch?v=NLlen4sjPFM",
+    "original_url": "https://www.youtube.com/watch?v=NLlen4sjPFM",
+    "webpage_url_basename": "watch",
+    "webpage_url_domain": "youtube.com",
+    "extractor": "youtube",
+    "extractor_key": "Youtube",
+    "playlist_count": 5,
+    "playlist": "VK-STREAMING - Videos",
+    "playlist_id": "UCOsQ3iGRosvnpP1hAdtplvQ",
+    "playlist_title": "VK-STREAMING - Videos",
+    "playlist_uploader": "VK-STREAMING",
+    "playlist_uploader_id": "@vk-streaming3526",
+    "playlist_channel": "VK-STREAMING",
+    "playlist_channel_id": "UCOsQ3iGRosvnpP1hAdtplvQ",
+    "playlist_webpage_url": "https://www.youtube.com/@vk-streaming3526/videos",
+    "n_entries": 5,
+    "playlist_index": 2,
+    "__last_playlist_index": 5,
+    "playlist_autonumber": 2,
+    "epoch": 1743777947,
+    "duration_string": "3:40",
+    "release_year": null,
+    "_version": {
+      "version": "2025.03.31",
+      "current_git_head": null,
+      "release_git_head": "5e457af57fae9645b1b8fa0ed689229c8fb9656b",
+      "repository": "yt-dlp/yt-dlp"
+    }
+  },
+  {
+    "_type": "url",
+    "ie_key": "Youtube",
+    "id": "pKSchm9ta6M",
+    "url": "https://www.youtube.com/watch?v=pKSchm9ta6M",
+    "title": "Candy Girl",
+    "description": "A song from The Very Best of Frankie Valli and Four Seasons",
+    "duration": 158.0,
+    "channel_id": null,
+    "channel": null,
+    "channel_url": null,
+    "uploader": null,
+    "uploader_id": null,
+    "uploader_url": null,
+    "thumbnails": [
+      {
+        "url": "https://i.ytimg.com/vi/pKSchm9ta6M/hqdefault.jpg?sqp=-oaymwE1CKgBEF5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-BIAC6AKKAgwIABABGDMgYihyMA8=&rs=AOn4CLAAu2VU8IfJgoiFas2VhN22YoXuSQ",
+        "height": 94,
+        "width": 168
+      },
+      {
+        "url": "https://i.ytimg.com/vi/pKSchm9ta6M/hqdefault.jpg?sqp=-oaymwE1CMQBEG5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-BIAC6AKKAgwIABABGDMgYihyMA8=&rs=AOn4CLA4u5ZzoFUcFXNYMEHWpkfEz5PDZA",
+        "height": 110,
+        "width": 196
+      },
+      {
+        "url": "https://i.ytimg.com/vi/pKSchm9ta6M/hqdefault.jpg?sqp=-oaymwE2CPYBEIoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gSAAugCigIMCAAQARgzIGIocjAP&rs=AOn4CLD3TUxr6ioCKJ9pTLvJL_fXDpsRlQ",
+        "height": 138,
+        "width": 246
+      },
+      {
+        "url": "https://i.ytimg.com/vi/pKSchm9ta6M/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gSAAugCigIMCAAQARgzIGIocjAP&rs=AOn4CLBENjbvaj6FdtVyNgXA932SVCV_6w",
+        "height": 188,
+        "width": 336
+      }
+    ],
+    "timestamp": null,
+    "release_timestamp": null,
+    "availability": null,
+    "view_count": 5,
+    "live_status": null,
+    "channel_is_verified": null,
+    "__x_forwarded_for_ip": null,
+    "webpage_url": "https://www.youtube.com/watch?v=pKSchm9ta6M",
+    "original_url": "https://www.youtube.com/watch?v=pKSchm9ta6M",
+    "webpage_url_basename": "watch",
+    "webpage_url_domain": "youtube.com",
+    "extractor": "youtube",
+    "extractor_key": "Youtube",
+    "playlist_count": 5,
+    "playlist": "VK-STREAMING - Videos",
+    "playlist_id": "UCOsQ3iGRosvnpP1hAdtplvQ",
+    "playlist_title": "VK-STREAMING - Videos",
+    "playlist_uploader": "VK-STREAMING",
+    "playlist_uploader_id": "@vk-streaming3526",
+    "playlist_channel": "VK-STREAMING",
+    "playlist_channel_id": "UCOsQ3iGRosvnpP1hAdtplvQ",
+    "playlist_webpage_url": "https://www.youtube.com/@vk-streaming3526/videos",
+    "n_entries": 5,
+    "playlist_index": 3,
+    "__last_playlist_index": 5,
+    "playlist_autonumber": 3,
+    "epoch": 1743777947,
+    "duration_string": "2:38",
+    "release_year": null,
+    "_version": {
+      "version": "2025.03.31",
+      "current_git_head": null,
+      "release_git_head": "5e457af57fae9645b1b8fa0ed689229c8fb9656b",
+      "repository": "yt-dlp/yt-dlp"
+    }
+  },
+  {
+    "_type": "url",
+    "ie_key": "Youtube",
+    "id": "07Szb-7atCI",
+    "url": "https://www.youtube.com/watch?v=07Szb-7atCI",
+    "title": "Sherry",
+    "description": "A song from The Very Best of Frankie Valli and Four Seasons",
+    "duration": 152.0,
+    "channel_id": null,
+    "channel": null,
+    "channel_url": null,
+    "uploader": null,
+    "uploader_id": null,
+    "uploader_url": null,
+    "thumbnails": [
+      {
+        "url": "https://i.ytimg.com/vi/07Szb-7atCI/hqdefault.jpg?sqp=-oaymwE1CKgBEF5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-BIAC6AKKAgwIABABGDMgYihyMA8=&rs=AOn4CLASaTEmpAg2D2RTLaEYBfZGgQ2P-g",
+        "height": 94,
+        "width": 168
+      },
+      {
+        "url": "https://i.ytimg.com/vi/07Szb-7atCI/hqdefault.jpg?sqp=-oaymwE1CMQBEG5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-BIAC6AKKAgwIABABGDMgYihyMA8=&rs=AOn4CLD1yuwPaA-4ME_BvNWpEDnnaLdmGA",
+        "height": 110,
+        "width": 196
+      },
+      {
+        "url": "https://i.ytimg.com/vi/07Szb-7atCI/hqdefault.jpg?sqp=-oaymwE2CPYBEIoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gSAAugCigIMCAAQARgzIGIocjAP&rs=AOn4CLB7Qf85PzghtxjG8Lm8GbuqYGvJiQ",
+        "height": 138,
+        "width": 246
+      },
+      {
+        "url": "https://i.ytimg.com/vi/07Szb-7atCI/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gSAAugCigIMCAAQARgzIGIocjAP&rs=AOn4CLC3yc2P2n0OlxhyJORYU5efxWpgfQ",
+        "height": 188,
+        "width": 336
+      }
+    ],
+    "timestamp": null,
+    "release_timestamp": null,
+    "availability": null,
+    "view_count": 38,
+    "live_status": null,
+    "channel_is_verified": null,
+    "__x_forwarded_for_ip": null,
+    "webpage_url": "https://www.youtube.com/watch?v=07Szb-7atCI",
+    "original_url": "https://www.youtube.com/watch?v=07Szb-7atCI",
+    "webpage_url_basename": "watch",
+    "webpage_url_domain": "youtube.com",
+    "extractor": "youtube",
+    "extractor_key": "Youtube",
+    "playlist_count": 5,
+    "playlist": "VK-STREAMING - Videos",
+    "playlist_id": "UCOsQ3iGRosvnpP1hAdtplvQ",
+    "playlist_title": "VK-STREAMING - Videos",
+    "playlist_uploader": "VK-STREAMING",
+    "playlist_uploader_id": "@vk-streaming3526",
+    "playlist_channel": "VK-STREAMING",
+    "playlist_channel_id": "UCOsQ3iGRosvnpP1hAdtplvQ",
+    "playlist_webpage_url": "https://www.youtube.com/@vk-streaming3526/videos",
+    "n_entries": 5,
+    "playlist_index": 4,
+    "__last_playlist_index": 5,
+    "playlist_autonumber": 4,
+    "epoch": 1743777947,
+    "duration_string": "2:32",
+    "release_year": null,
+    "_version": {
+      "version": "2025.03.31",
+      "current_git_head": null,
+      "release_git_head": "5e457af57fae9645b1b8fa0ed689229c8fb9656b",
+      "repository": "yt-dlp/yt-dlp"
+    }
+  },
+  {
+    "_type": "url",
+    "ie_key": "Youtube",
+    "id": "Yif0123MX_Y",
+    "url": "https://www.youtube.com/watch?v=Yif0123MX_Y",
+    "title": "Garden in July",
+    "description": "Our garden in July",
+    "duration": 61.0,
+    "channel_id": null,
+    "channel": null,
+    "channel_url": null,
+    "uploader": null,
+    "uploader_id": null,
+    "uploader_url": null,
+    "thumbnails": [
+      {
+        "url": "https://i.ytimg.com/vi/Yif0123MX_Y/hqdefault.jpg?sqp=-oaymwE1CKgBEF5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AG2CIACgA-KAgwIABABGF4gZSg6MA8=&rs=AOn4CLBA-sLO7oLY0QSju2P2ixbmoTZgXA",
+        "height": 94,
+        "width": 168
+      },
+      {
+        "url": "https://i.ytimg.com/vi/Yif0123MX_Y/hqdefault.jpg?sqp=-oaymwE1CMQBEG5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AG2CIACgA-KAgwIABABGF4gZSg6MA8=&rs=AOn4CLCVhNq-Vpo6kgpBAkX3WPxJX5vpKA",
+        "height": 110,
+        "width": 196
+      },
+      {
+        "url": "https://i.ytimg.com/vi/Yif0123MX_Y/hqdefault.jpg?sqp=-oaymwE2CPYBEIoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgBtgiAAoAPigIMCAAQARheIGUoOjAP&rs=AOn4CLBD_B-pQPt0mjP042jeNeZQwDoEKg",
+        "height": 138,
+        "width": 246
+      },
+      {
+        "url": "https://i.ytimg.com/vi/Yif0123MX_Y/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgBtgiAAoAPigIMCAAQARheIGUoOjAP&rs=AOn4CLC0k8JnaQly16v3aVlDAPcyH0cdGA",
+        "height": 188,
+        "width": 336
+      }
+    ],
+    "timestamp": null,
+    "release_timestamp": null,
+    "availability": null,
+    "view_count": 5,
+    "live_status": null,
+    "channel_is_verified": null,
+    "__x_forwarded_for_ip": null,
+    "webpage_url": "https://www.youtube.com/watch?v=Yif0123MX_Y",
+    "original_url": "https://www.youtube.com/watch?v=Yif0123MX_Y",
+    "webpage_url_basename": "watch",
+    "webpage_url_domain": "youtube.com",
+    "extractor": "youtube",
+    "extractor_key": "Youtube",
+    "playlist_count": 5,
+    "playlist": "VK-STREAMING - Videos",
+    "playlist_id": "UCOsQ3iGRosvnpP1hAdtplvQ",
+    "playlist_title": "VK-STREAMING - Videos",
+    "playlist_uploader": "VK-STREAMING",
+    "playlist_uploader_id": "@vk-streaming3526",
+    "playlist_channel": "VK-STREAMING",
+    "playlist_channel_id": "UCOsQ3iGRosvnpP1hAdtplvQ",
+    "playlist_webpage_url": "https://www.youtube.com/@vk-streaming3526/videos",
+    "n_entries": 5,
+    "playlist_index": 5,
+    "__last_playlist_index": 5,
+    "playlist_autonumber": 5,
+    "epoch": 1743777947,
+    "duration_string": "1:01",
+    "release_year": null,
+    "_version": {
+      "version": "2025.03.31",
+      "current_git_head": null,
+      "release_git_head": "5e457af57fae9645b1b8fa0ed689229c8fb9656b",
+      "repository": "yt-dlp/yt-dlp"
+    }
+  }
+]
