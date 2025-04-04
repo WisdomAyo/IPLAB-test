@@ -40,7 +40,7 @@ python main.py https://www.youtube.com/channel/YOUR_CHANNEL_ID
 ## Directory Structure
 
 ```
-youtube_downloader/
+IPLABS test/
 ├── main.py               # Main application script
 ├── channel_info.py       # Channel access script
 ├── extract_metadata.py   # Metadata extraction script
